@@ -1,0 +1,2 @@
+cpdef fib():
+    print("fib!")
